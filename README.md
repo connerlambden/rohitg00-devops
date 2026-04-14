@@ -213,6 +213,7 @@ Servers for accessing many apps and tools through a single MCP server.
 
 - [askbudi/roundtable](https://github.com/askbudi/roundtable) 🐍 🏠 - Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface.
 - [Composiohq/Rube](https://github.com/composiohq/rube) - Rube is an MCP server built on the Composio integration platform. It connects your AI tools to 500+ apps.
+- [connerlambden/helium-mcp](https://github.com/connerlambden/helium-mcp) 📇 ☁️ - Remote MCP server for real-time news intelligence with bias scoring (3.2M+ articles, 5000+ sources, 15+ dimensions), financial market data (stocks, ETFs, crypto, AI bull/bear cases), ML options pricing (probability ITM, Greeks, fair value), balanced news synthesis, trending topics, and meme search. [Documentation](https://heliumtrades.com/mcp-page/).
 - [julien040/anyquery](https://github.com/julien040/anyquery) 🏎️ 🏠 ☁️ - Query more than 40 apps with one binary using SQL. It can also connect to your PostgreSQL, MySQL, or SQLite compatible database. Local-first and private by design.
 - [metatool-ai/metatool-app](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP is the one unified middleware MCP server that manages your MCP connections with GUI.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Connect and unify data across various platforms and databases with [MindsDB as a single MCP server](https://docs.mindsdb.com/mcp/overview).
